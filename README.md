@@ -31,7 +31,7 @@
 
 <div align="center">
   
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Meghan31&theme=dark&hide_border=true&border_radius=5.8&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&fire=EB4F4F" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Meghan31&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 <br clear="both">
 
 <img src="https://github.com/Meghan31/Meghan31/blob/output/github-snake-dark.svg" alt="Snake animation" />
