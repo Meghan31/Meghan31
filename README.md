@@ -2,15 +2,17 @@
 <div align="center">
 
 
-
+<a href="https://www.meghan31.me">
 <img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=>+_+>;Hi%2C+I'm+Meghan;&repeat=false" alt="Meghan Typing SVG" />
 
-
+</a>
 
   
 
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Backend+Developer;Full+Stack+Engineer+%7C+Cloud+Enthusiast;Design+Lover+%7C+Always+Learning" alt="Typing SVG">
+    
+<a href="https://github.com/Meghan31">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Backend+Developer;Full+Stack+Engineer+%7C+Cloud+Enthusiast;Design+Lover+%7C+Always+Learning" alt="Typing SVG"></a>
 </p>
 
 ###
@@ -38,8 +40,9 @@
 
 
 <div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Lexend+Gigah&size=16&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=I+build+systems+that+scale%2C+design+that+connects%2C+and+code+that+breathes.&repeat=false" alt="Typing SVG">
+    
+<a href="https://github.com/Meghan31">
+  <img src="https://readme-typing-svg.demolab.com?font=Lexend+Gigah&size=16&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=I+build+systems+that+scale%2C+design+that+connects%2C+and+code+that+breathes.&repeat=false" alt="Typing SVG"></a>
   
 </div>
 
@@ -50,12 +53,14 @@
 <details>
   <summary>
         <div align="left">
+              
+  <a href="https://leetcode.com/u/Meghan31/">
       <img 
         src="https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=2700&pause=100&color=3BC022FF&width=400&lines=%3E;>+competitive_programming&repeat=false" 
-        alt="Meghan Typing SVG" />
+        alt=" >competetive_programming " /></a>
             <img 
     src="https://readme-typing-svg.demolab.com?font=VT323&weight=900&size=36&duration=800&pause=400&color=37C32E&center=false&vCenter=false&random=false&width=25&height=60&lines=%E2%96%88&repeat=true" 
-    alt="Blinking Cursor"
+    alt=" "
     style="position:absolute; right:0; top:0; transform:translateX(0px); padding:0; margin:0; border:0;"
   />
     </div>
@@ -81,12 +86,13 @@
 
 <h2></h2>
 
-<span style="position:relative; display:inline-block;">
+<span style="position:relative; display:inline-block;">    
+<a href="https://github.com/Meghan31" >
   <img 
     src="https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=2700&pause=100&color=3BC022FF&width=160&lines=%3E+about_me&repeat=false&cursor=%7C" 
     alt=" >about_me "
     style="display:inline; vertical-align:middle; padding:0; margin:0; border:0;"
-  />
+  /></a>
   <img 
     src="https://readme-typing-svg.demolab.com?font=VT323&weight=900&size=36&duration=800&pause=400&color=37C32E&center=false&vCenter=false&random=false&width=25&height=60&lines=%E2%96%88&repeat=true" 
     alt=" "
@@ -118,12 +124,13 @@ contact: "meghasrivardhanp@gmail.com"
 
 <h2></h2>
 
-<span style="position:relative; display:inline-block;">
+<span style="position:relative; display:inline-block;">    
+<a href="https://github.com/Meghan31">
   <img 
     src="https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=2700&pause=100&color=3BC022FF&width=130&lines=%3E+skills&repeat=false&cursor=%7C" 
     alt=" >skills "
     style="display:inline; vertical-align:middle; padding:0; margin:0; border:0;"
-  />
+  /></a>
   <img 
     src="https://readme-typing-svg.demolab.com?font=VT323&weight=900&size=36&duration=800&pause=400&color=37C32E&center=false&vCenter=false&random=false&width=25&height=60&lines=%E2%96%88&repeat=true" 
     alt=" "
@@ -166,6 +173,8 @@ contact: "meghasrivardhanp@gmail.com"
 
 
 <div align="center">
+      
+<a href="https://www.meghan31.me">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:1E90FF&height=100&section=footer" 
     width="100%"
