@@ -55,11 +55,11 @@
         <div align="left">
               
   <a href="https://leetcode.com/u/Meghan31/">
-      <img 
-        src="https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=2700&pause=100&color=3BC022FF&width=400&lines=%3E;>+competitive_programming&repeat=false" 
-        alt=" >competetive_programming " /></a>
+              <img 
+    src="https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=900&pause=100&color=3BC022FF&width=400&lines=%3E;>+competitive_programming&repeat=false&cursor=%7C" 
+    alt=" >competetive_programming " /></a>
             <img 
-    src="https://readme-typing-svg.demolab.com?font=VT323&weight=900&size=36&duration=800&pause=400&color=37C32E&center=false&vCenter=false&random=false&width=25&height=60&lines=%E2%96%88&repeat=true" 
+    src="https://readme-typing-svg.demolab.com?font=VT323&weight=900&size=23&duration=800&pause=400&color=37C32E&center=false&vCenter=false&random=false&width=25&height=60&lines=%E2%96%88&repeat=true" 
     alt=" "
     style="position:absolute; right:0; top:0; transform:translateX(0px); padding:0; margin:0; border:0;"
   />
@@ -89,12 +89,12 @@
 <span style="position:relative; display:inline-block;">    
 <a href="https://github.com/Meghan31" >
   <img 
-    src="https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=2700&pause=100&color=3BC022FF&width=160&lines=%3E+about_me&repeat=false&cursor=%7C" 
+    src="https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=2000&pause=100&color=3BC022FF&width=160&lines=%3E+about_me&repeat=false&cursor=%7C" 
     alt=" >about_me "
     style="display:inline; vertical-align:middle; padding:0; margin:0; border:0;"
   /></a>
   <img 
-    src="https://readme-typing-svg.demolab.com?font=VT323&weight=900&size=36&duration=800&pause=400&color=37C32E&center=false&vCenter=false&random=false&width=25&height=60&lines=%E2%96%88&repeat=true" 
+    src="https://readme-typing-svg.demolab.com?font=VT323&weight=900&size=23&duration=800&pause=400&color=37C32E&center=false&vCenter=false&random=false&width=25&height=60&lines=%E2%96%88&repeat=true" 
     alt=" "
     style="position:absolute; right:0; top:0; transform:translateX(0px); padding:0; margin:0; border:0;"
   />
@@ -132,7 +132,7 @@ contact: "meghasrivardhanp@gmail.com"
     style="display:inline; vertical-align:middle; padding:0; margin:0; border:0;"
   /></a>
   <img 
-    src="https://readme-typing-svg.demolab.com?font=VT323&weight=900&size=36&duration=800&pause=400&color=37C32E&center=false&vCenter=false&random=false&width=25&height=60&lines=%E2%96%88&repeat=true" 
+    src="https://readme-typing-svg.demolab.com?font=VT323&weight=900&size=23&duration=800&pause=400&color=37C32E&center=false&vCenter=false&random=false&width=25&height=60&lines=%E2%96%88&repeat=true" 
     alt=" "
     style="position:absolute; right:0; top:0; transform:translateX(0px); padding:0; margin:0; border:0;"
   />
