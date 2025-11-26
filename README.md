@@ -2,10 +2,29 @@
 <div align="center">
 
 
-<a href="https://www.meghan31.me">
+<!-- <a href="https://www.meghan31.me">
 <img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=>+_+>;Hi%2C+I'm+Meghan;&repeat=false" alt="Meghan Typing SVG" />
+<img width="128" height="128" alt="toonIcon128" src="https://github.com/user-attachments/assets/065fdef9-bb58-486c-8e9c-c3c92172bb6a" />
 
-</a>
+</a> -->
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://readme-typing-svg.demolab.com?font=Sixtyfour&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Meghan;&repeat=false" 
+        alt="Typing SVG" 
+      />
+    </td>
+    <td>
+      <img 
+        width="256" 
+        height="256" 
+        alt="toonIcon256" 
+        src="https://github.com/user-attachments/assets/2c563948-4a63-483f-bea1-9b184ad03635" 
+        />
+    </td>
+  </tr>
+</table>
 
   
 
