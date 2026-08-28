@@ -135,8 +135,7 @@ available_for: Full-time SWE roles (USA)
 contact: "meghasrivardhanp@gmail.com"
 
 ```
-> linkedin: [linkedin.com/in/meghan31](https://linkedin.com/in/meghan31)  
-> portfolio: [meghan31.me](https://meghan31.me)  
+> portfolio: [meghan31.me](https://www.meghan31.me)  
 
 <br clear="both">
 
