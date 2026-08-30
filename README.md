@@ -66,7 +66,41 @@
 </div>
 
 <br clear="both">
+<a href="https://github.com/Meghan31/">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=900&pause=100&color=3BC022FF&width=400&lines=%3E;>+visit&repeat=false&cursor=%7C" 
+    alt=" >visit-> " />
+</a>
+<br>
 
+<a href="https://github.com/Meghan31/Job-Store">
+  <img width="262" height="27" alt="Job Store" src="https://github.com/user-attachments/assets/f56b58d3-aadb-4347-91a8-20b8bd45e46c" />
+</a>
+<br>
+<sub>
+  <b>Job Store</b> — A job application tracker for organizing and managing your job search.
+  <a href="https://github.com/Meghan31/Job-Store">[view project →]</a>
+</sub>
+<br><br>
+
+<a href="https://github.com/Meghan31/TimeSling">
+  <img width="278" height="28" alt="TimeSling" src="https://github.com/user-attachments/assets/26bd8d19-34cb-48b5-9a3a-226e00d97057" />
+</a>
+<br>
+<sub>
+  <b>TimeSling</b> — A lightweight macOS menubar timer built for focused time tracking.
+  <a href="https://github.com/Meghan31/TimeSling">[view project →]</a>
+</sub>
+<br><br>
+
+<a href="https://github.com/Meghan31/infiniteNote">
+  <img width="317" height="31" alt="infiniteNote" src="https://github.com/user-attachments/assets/46fa4878-f71f-4409-846e-29087b378c4b" />
+</a>
+<br>
+<sub>
+  <b>infiniteNote</b> — A simple, infinite canvas for capturing, organizing, and connecting ideas.
+  <a href="https://github.com/Meghan31/infiniteNote">[view project →]</a>
+</sub>
 
 
 <details>
@@ -141,43 +175,6 @@ contact: "meghasrivardhanp@gmail.com"
 
 
 <h2></h2>
-
-<span style="position:relative; display:inline-block;">    
-<a href="https://github.com/Meghan31">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=2700&pause=100&color=3BC022FF&width=130&lines=%3E+skills&repeat=false&cursor=%7C" 
-    alt=" >skills "
-    style="display:inline; vertical-align:middle; padding:0; margin:0; border:0;"
-  /></a>
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=VT323&weight=900&size=23&duration=800&pause=400&color=37C32E&center=false&vCenter=false&random=false&width=25&height=60&lines=%E2%96%88&repeat=true" 
-    alt=" "
-    style="position:absolute; right:0; top:0; transform:translateX(0px); padding:0; margin:0; border:0;"
-  />
-</span>
-
-**Programming Languages:**  
-`C` • `C++` • `JavaScript` • `TypeScript` • `Go` • `Python` • `Java` • `SQL` • `Dart` • `Bash` • `Linux/Unix` • `Git` • `Data Structures & Algorithms` • `Object-Oriented Programming`
-
-**Backend Development:**  
-`Node.js` • `Express` • `Spring Boot` • `Golang` • `REST API` • `GraphQL` • `Microservices` • `Maven` • `Gradle` • `System Design`
-
-**Frontend & Mobile Development:**  
-`React` • `Next.js` • `React Native` • `Flutter` • `Redux` • `Sass` • `CSS` • `TailwindCSS` • `Bootstrap`
-
-**Testing & Debugging:**  
-`Jest` • `Cypress` • `Postman` • `Mocha`
-
-**Databases:**  
-`PostgreSQL` • `MongoDB` • `MySQL` • `DynamoDB` • `CassandraDB` • `AWS Aurora` • `Oracle` • `Firebase`
-
-**Cloud & DevOps:**  
-`AWS (ECS, S3, RDS, Lambda, CloudWatch, API Gateway, Redshift)` • `Azure` • `GCP` • `Docker` • `Kubernetes` • `Redis` • `Kafka` • `CI/CD (GitHub Actions, GitLab)` • `Snowflake` • `Terraform`
-
-**Machine Learning & Tools:**  
-`TensorFlow` • `Pandas` • `NumPy` • `Matplotlib`
-
-
 
 
 
